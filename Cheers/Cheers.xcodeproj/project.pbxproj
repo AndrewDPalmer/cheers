@@ -317,6 +317,7 @@
 				98F026371D8CB72A00C8B710 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		98F026391D8CB72A00C8B710 /* Build configuration list for PBXNativeTarget "Cheers" */ = {
 			isa = XCConfigurationList;
@@ -325,6 +326,7 @@
 				98F0263B1D8CB72A00C8B710 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
