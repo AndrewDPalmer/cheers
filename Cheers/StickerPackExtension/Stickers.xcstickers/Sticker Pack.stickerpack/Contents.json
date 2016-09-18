@@ -1,112 +1,31 @@
 {
   "stickers" : [
     {
-      "filename" : "Drinky-Bear-618.sticker"
-    },
-    {
-      "filename" : "Afrikaans.sticker"
-    },
-    {
-      "filename" : "Amharic.sticker"
-    },
-    {
-      "filename" : "Arabic.sticker"
-    },
-    {
-      "filename" : "Basque2.sticker"
-    },
-    {
-      "filename" : "Croatian.sticker"
-    },
-    {
-      "filename" : "Czech.sticker"
-    },
-    {
-      "filename" : "DanishSwedish.sticker"
-    },
-    {
-      "filename" : "Dutch.sticker"
-    },
-    {
-      "filename" : "English.sticker"
-    },
-    {
-      "filename" : "Filipino.sticker"
-    },
-    {
-      "filename" : "Finnish.sticker"
-    },
-    {
-      "filename" : "French.sticker"
-    },
-    {
-      "filename" : "Gaelic.sticker"
-    },
-    {
-      "filename" : "German.sticker"
-    },
-    {
-      "filename" : "Greek.sticker"
-    },
-    {
-      "filename" : "Hawaiian.sticker"
-    },
-    {
-      "filename" : "Hebrew.sticker"
-    },
-    {
-      "filename" : "Hungarian.sticker"
-    },
-    {
-      "filename" : "ItalianFNL1.sticker"
-    },
-    {
-      "filename" : "Japanese.sticker"
-    },
-    {
-      "filename" : "Korean.sticker"
-    },
-    {
-      "filename" : "Latvian.sticker"
+      "filename" : "Russian.sticker"
     },
     {
       "filename" : "Mandarin.sticker"
     },
     {
-      "filename" : "Mandarin1.sticker"
-    },
-    {
-      "filename" : "Polish.sticker"
-    },
-    {
-      "filename" : "Portuguese.sticker"
-    },
-    {
-      "filename" : "Romanian.sticker"
-    },
-    {
-      "filename" : "Russian.sticker"
-    },
-    {
-      "filename" : "Serbian.sticker"
+      "filename" : "French.sticker"
     },
     {
       "filename" : "Spanish.sticker"
     },
     {
-      "filename" : "Turkish.sticker"
+      "filename" : "German.sticker"
     },
     {
-      "filename" : "Ukranian.sticker"
+      "filename" : "English.sticker"
     },
     {
-      "filename" : "Vietnamese.sticker"
+      "filename" : "Japanese.sticker"
     },
     {
-      "filename" : "Welsh.sticker"
+      "filename" : "Gaelic.sticker"
     },
     {
-      "filename" : "Yiddish.sticker"
+      "filename" : "Drinky-Bear-618.sticker"
     }
   ],
   "info" : {
